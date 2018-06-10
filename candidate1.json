@@ -1,3 +1,11 @@
 {
-  name:'test'
+ "mydetails": {
+  "name": "firname lastname",
+  "preferNameToCall": "",
+  "school": "your school name",
+  "email": "your email address",
+  "phone": "",
+  "your phone number": "",
+  "bestDateTimemeToCallYou": "”
+ }
 }
